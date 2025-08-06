@@ -1,3 +1,5 @@
+// NOTE: THIS IS A WORK IN PROGRESS CRATE! DO NOT USE ANY OF THIS!
+
 pub fn add(left: u64, right: u64) -> u64 {
     left + right
 }
