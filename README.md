@@ -1,4 +1,4 @@
-> [!WARNING]
+> ⚠️ **WARNING**
 > Revolst is still a work in progress. Do NOT install this yet.
 
 # Revolst
