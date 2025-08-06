@@ -1,0 +1,12 @@
+[package]
+name = "revolst"
+version = "0.0.1"
+edition = "2024"
+description = "A Revolt chat API library for making bots."
+homepage = "https://github.com/Yoshiboi18303/Revolst"
+authors = ["Yoshiboi18303"]
+readme = "README.md"
+repository = "https://github.com/Yoshiboi18303/Revolst"
+license = "MIT OR Apache 2.0"
+
+[dependencies]
