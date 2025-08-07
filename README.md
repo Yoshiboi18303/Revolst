@@ -6,3 +6,7 @@
 
 A Revolt chat API library for making bots.
 
+## Server (WIP)
+
+If you guys want to help me make this faster, join the [Revolt server!](https://rvlt.gg/KrYWtBqX)
+
